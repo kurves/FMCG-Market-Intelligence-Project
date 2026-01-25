@@ -1,9 +1,8 @@
 #  📊FMCG-Market-Intelligence-Project
-From Consumer Behavior to Strategic Business Decisions
+## From Consumer Behavior, Competition Analysis, Growth Strategy to Strategic Business Decisions
 
 ## 📌 Project Overview
-
-This project simulates the role of an FMCG Market Analyst within a fast-moving consumer goods company, focusing on market trends, consumer behavior, and competitive intelligence to inform strategic decision-making.
+This project  focuses  on market trends, consumer behavior, and competitive intelligence to inform strategic decision-making by a FMCG Market Analyst within a fast-moving consumer goods company,
 
 The objective is to demonstrate how data-driven market intelligence can be translated into clear, actionable insights for leadership in a dynamic, competitive FMCG environment.
 
