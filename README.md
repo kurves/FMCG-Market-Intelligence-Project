@@ -34,25 +34,6 @@ The project covers the full market intelligence lifecycle:
 
 - Strategic scenario modeling & recommendations
 
-## 🗂️ Data Sources & Assumptions
-
-Internal-like Data (Simulated)
-
-Sales transactions (SKU, region, channel)
-
-Pricing and promotional activity
-
-Product and category attributes
-
-External Data
-
-Consumer survey datasets (open-source)
-
-Macroeconomic indicators (inflation proxies, seasonality)
-
-Competitor pricing snapshots (simulated)
-
-
 ## 🛠️ Tools & Technologies
 
 - Python – data cleaning, analysis, modeling
